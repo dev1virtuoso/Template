@@ -1,4 +1,4 @@
-# Repository for {Template} Project
+# Repository for {'Template'} Project
 
 This GitHub repository serves as a central location for storing the code of my {template} project. The project is licensed under [MIT License](LICENSE).
 
@@ -19,7 +19,7 @@ To begin working with the {template} project, follow these steps:
 1. Clone the repository to your local machine:
 
    `
-   git clone https://github.com/dev1virtuoso/{Template}.git
+   git clone https://github.com/dev1virtuoso/{'Template'}.git
    `
 
 2. Install any necessary dependencies as outlined in the project's documentation.
@@ -40,6 +40,6 @@ By contributing to this project, you agree to license your contributions under t
 
 ## Contact Information
 
-If you have any questions or suggestions regarding this {template} project, please feel free to contact me through [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).
+If you have any questions or suggestions regarding this {template} project, please feel free to contact me through [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md#contact).
 
 Thank you for your interest and contributions to the project!
